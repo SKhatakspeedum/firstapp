@@ -1,0 +1,134 @@
+/* Line 55. */
+.icon_up_down{
+    color: blue;
+}
+
+
+/* Line 84. */
+.Base_div1{
+    height: 100px;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    background-color: #7070eb;
+}
+
+/* Line 85. */
+.Base_div2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+/* Line 86. */
+.main_div{
+    width: 18%;
+    margin-left: 30px;
+    border: 1px solid #ddd0d0;
+}
+
+/* Line 89. */
+.ExpandCompress{
+    color: #444659;
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0px 15px 0px;
+}
+
+/* Line 92,98. */
+.ExpandCompressBtn{
+    background-color: #c6d9eb;
+    width: 40%;
+    height: 30px;
+    border: 1px solid #dee2e5;
+    color: #0077b5;
+}
+
+
+/* Line 104. */
+.border{
+    border-bottom: 1px solid #dee2e5;
+}
+
+/* Line 109. */
+.inactive-button.accordion-button{
+    width: 100%;
+    border-style: none;
+    height: 35px;
+    border-top: 1px solid #dee2e5;
+    display: flex;
+    font-weight: bold;
+    padding: 25px 15px 25px 10px;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Line 109. */
+.active-button.accordion-button{
+    background-color: #f2f8fb;
+}
+
+/* Line 114. */
+.btn_div{
+    display: flex;
+    align-items: center;
+}
+
+/* Line 115. blueicon */
+img{
+    width: 40px;
+}
+
+
+/* Line 116. */
+.headding{
+    font-family: sans-serif;
+    font-size: larger;
+    color: #444659;
+}
+
+
+/* Line 121. */
+.ul_div{
+    background-color: #ffffff;
+}
+
+
+/* Line 122. */
+ul{
+    list-style: none;
+    padding: 10px 0px 10px 0px;
+    margin: 0px !important;
+}
+
+
+/* Line 124. */
+li{
+   
+    padding-left: 60px;
+    font-weight: 500;
+    color: #a4adbe;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    font-size: initial;
+}
+
+
+/* Line 124. */
+li:hover{
+    color: #0077b5;
+}
+
+
+/* Line 134. */
+.new_div{
+    border: 1px solid black;
+    width: 50%;
+}
+
+
+/* Line 135. */
+.test{width: 100%;}
